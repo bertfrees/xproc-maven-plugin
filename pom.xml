@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.daisy.maven</groupId>
   <artifactId>xproc-maven-plugin-parent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-calabash_1.0.16-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>xproc-maven-plugin-parent</name>
   
@@ -23,7 +23,7 @@
       <dependency>
         <groupId>net.sf.saxon</groupId>
         <artifactId>Saxon-HE</artifactId>
-        <version>9.4.0.7</version>
+        <version>9.5.1-1</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
